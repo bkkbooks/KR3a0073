@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0073/krp/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辨惑編跋延陵謝子蘭先生辨惑編京口用中俞公建業晉仲李公序之噫南方士林多宗二公為師表諸省大比往往先期幣起二公典文衡交恐不逮今詞翰愴然猶在諄諄懇懇為世道人心幸則吾謝先生操心之正積學之博與夫人品髙第有不待歷覽編中已較然知其非好辨者矣後二十五年武進邑大夫董友善陳漢廣尹明善翕然為捐俸鏤板以廣其傳蓋以邪說滔滔將藉此為中流砥柱耳豫以寢疾不能從諸賢後然而謝先生為忘年交且嘗游二公之門反覆是編不勝起敬亦重起夫鄉邦耆舊寥寥之思也金壇虞士常拜手敬跋
+  hash: sha256:49e56faf809cceb83bfa93fcd4b2a53f9ee80bd2ae6a362de5de7f4e59684f60
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0073_WYG_006-1a, image: WYG0709/WYG0709-0594c.png}
+metadata:
+  title: 辨惑編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:59:53.002978'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3a0073/KR3a0073_006.txt
+hash: sha256:db469e6bddd5bfb0b1d23031bc7a54ab6623f33316a1dca26995f70208ac33cf
